@@ -34,21 +34,10 @@
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/pabloconejos/spotifyStats
+# Login with your spotify account
+$ I don't have the extended users yet, so if you want to try the website with your own account send me a message.
 
-# Install dependencies
-$ npm install
-
-# Get spotify keys
-$ complete the envioraments with yours keys
-$ call the environment in callback.component on the lines 39, 40, 41
-
-# Run the app
-$ ng serve
 ```
-In this website https://developer.spotify.com/ you can create an app for get the keys. Is 100% spotify official website.
-
 
 ## Credits
 
@@ -56,6 +45,9 @@ This software uses the following open source packages:
 
 - [Angular](https://angular.io/)
 - [Bootstrap](https://getbootstrap.com/)
+- [Nodejs](https://nodejs.org/en/)
+- [Nestjs](https://nestjs.com/)
+- [Turso](https://turso.tech/)
 - [Spotify](https://developer.spotify.com/)
 
 ## Related
