@@ -2,7 +2,7 @@
 <h1 align="center">
   <br>
   <a href="https://musicnumbers-f4704.web.app/"><img 
-    src="src/assets/spotify.png" alt="Icono Spotify" width="200"></a>
+    src="./spotify.png" alt="Icono Spotify" width="200"></a>
   <br>
   Music Numbers
   <br>
@@ -18,7 +18,7 @@
   <a href="#credits">Credits</a> •
 </p>
 
-![screenshot](src/assets/templatemns.png)
+![screenshot](./templatemns.png)
 
 ## Key Features
 
